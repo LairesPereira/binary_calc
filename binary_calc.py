@@ -1,5 +1,6 @@
 numbers_list = []
 
+    # number list deve sempre ser uma string somente com 1 ou 0
 def translate_binary(numbersList): 
     # recebe uma string de numeros e joga em uma lista
     for number in numbersList:

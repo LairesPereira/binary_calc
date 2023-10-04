@@ -1,4 +1,4 @@
-from binary_to_decimal import translate_binary
+from binary_calc import translate_binary
 
 while True:
     tool_choice = int(input('Digite 1 se deseja traduzir ou 2 se deseja somar: '))
